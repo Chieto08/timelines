@@ -1,0 +1,9 @@
+643576332438388737,989489610,1442275529,@marcua oooo I want to hear/read the story! These are my kind of bugs!
+643486000384049152,989489610,1442253992,@viktorklang @pbailis @neha I think I agree with this thread: a) CC aborts are surprising b) retries are also easy to screw up
+643067008838320130,989489610,1442154097,@pcalcado I think this *the* reason to use microservices: organization and process. The first "value stream" sadly looks very familiar :)
+643057991370080256,989489610,1442151947,@jay_gee good option during rush hours. When the roads aren't busy a cab is 30 mins for $53 plus tolls and tip; I only rarely take the train
+639845739699437569,989489610,1441386086,@yschimke I think I know exactly what conversation this is referring to. I'm not sure I was actually able to help though.
+635808498622685184,989489610,1440423533,@giltene @ArielWeisberg Twitter's JVM does that for some things (thanks @cvarming @TonyPrintezis, team), but not GC log. Maybe it should?
+635638758050664448,989489610,1440383064,Work on important problems, ignore metrics, teach well; *everyone* should follow @mattmight's advice on tenure: http://t.co/HqXu9mEcYM
+635559599408586752,989489610,1440364191,@giltene thanks! In this case: the api doesn't look like IO, so I bet people didn't even think about it
+634481787742236672,989489610,1440107220,@ArielWeisberg read a bit of code: hotspot calls gclog_or_tty-&gt;flush() a few places in a safepoint; probably can block it on rare occasions?
